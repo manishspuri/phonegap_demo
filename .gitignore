@@ -54,6 +54,8 @@ $RECYCLE.BIN/
 *.tmproject
 tmtags
 
+# build
+www/
 
 ### SublimeText ###
 # workspace files are user-specific
